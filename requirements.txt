@@ -1,0 +1,5 @@
+streamlit
+pandas
+pybaseball
+statsapi
+plotly==5.21.0
